@@ -1,8 +1,9 @@
 package org.example.dslist.dto;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.example.dslist.entities.Games;
+import org.example.dslist.entities.Game;
 
 @NoArgsConstructor
 @Getter
@@ -14,7 +15,7 @@ public class GameMinDTO {
     private String imgUrl;
     private String shortDescription;
 
-    public GameMinDTO(Games entity) {
+    public GameMinDTO(Game entity) {
         id = entity.getId();
         title = entity.getTitle();
         year = entity.getYear();

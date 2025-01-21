@@ -10,7 +10,7 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode
-public class Games {
+public class Game {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

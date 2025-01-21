@@ -1,7 +1,6 @@
 package org.example.dslist.service;
 
 import org.example.dslist.dto.GameMinDTO;
-import org.example.dslist.entities.Games;
 import org.example.dslist.repository.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

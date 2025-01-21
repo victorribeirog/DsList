@@ -1,8 +1,6 @@
 package org.example.dslist.controller;
 
-import lombok.Getter;
 import org.example.dslist.dto.GameMinDTO;
-import org.example.dslist.entities.Games;
 import org.example.dslist.service.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
