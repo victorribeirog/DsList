@@ -4,6 +4,11 @@ GameList é uma API backend desenvolvida para gerenciar uma lista de jogos. Ela 
 
 ---
 
+## 🖥️ Modelo de domínio DSList
+
+![ModeloDominio](assets/img.png)
+
+---
 
 ## 📋 Funcionalidades
 
@@ -28,7 +33,7 @@ Alterada:
 
 ![Replacemant](assets/img_3.png)
 
-
+---
 
 ## 🚀 Tecnologias Utilizadas
 
