@@ -16,6 +16,19 @@ GameList é uma API backend desenvolvida para gerenciar uma lista de jogos. Ela 
 
 ![GameList](assets/img_1.png)
 
+---
+
+## Alterar a posição dos jogos na lista
+
+Original:
+
+![Original](assets/img_4.png)
+
+Alterada:
+
+![Replacemant](assets/img_3.png)
+
+
 
 ## 🚀 Tecnologias Utilizadas
 
